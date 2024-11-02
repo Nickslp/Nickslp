@@ -1,7 +1,6 @@
 # Hello, I'm Nickslp 👋
 
-I am a Software Developer with a strong foundation in modern web technologies. 
-My expertise spans across various programming languages and frameworks, enabling me to build robust and scalable applications.
+I am a Software Developer with expertise across various programming languages and frameworks, enabling me to build robust and scalable applications.
 
 ## Skills
 
