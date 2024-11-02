@@ -19,4 +19,4 @@ Check out my Docker images: [Docker Hub Profile](https://hub.docker.com/u/nicksl
 
 ## Get in Touch
 
-Feel free to connect with me on via [email](dev@nickslp.live).
+Feel free to connect with me on via [email](nickslp2019@gmail.com).
