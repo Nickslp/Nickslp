@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hello, I'm Nickslp 👋
 
-<!--
-**Nickslp/Nickslp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer with a strong foundation in modern web technologies. 
+My expertise spans across various programming languages and frameworks, enabling me to build robust and scalable applications.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: JavaScript, Python, SQL, HTML, CSS
+- **Frameworks**: React.js
+- **Tools**: Docker, Git, Node.js
+
+## Projects
+
+### [LinkPanel](https://github.com/Nickslp/linkpanel)
+A web application designed for efficient link management, utilizing React.js for a seamless user experience.
+
+### Docker Hub
+Check out my Docker images: [Docker Hub Profile](https://hub.docker.com/u/nickslp)
+
+## Get in Touch
+
+Feel free to connect with me on via [email](dev@nickslp.live).
