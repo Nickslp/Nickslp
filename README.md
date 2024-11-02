@@ -6,7 +6,7 @@ My expertise spans across various programming languages and frameworks, enabling
 ## Skills
 
 - **Languages**: JavaScript, Python, SQL, HTML, CSS
-- **Frameworks**: React.js
+- **Frameworks**: React.js, Express.js
 - **Tools**: Docker, Git, Node.js
 
 ## Projects
