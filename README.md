@@ -1,12 +1,6 @@
-# Hello, I'm Nickslp 👋
+# Hi!
 
 I am a Software Developer with expertise across various programming languages and frameworks, enabling me to build robust and scalable applications.
-
-## Skills
-
-- **Languages**: JavaScript, Python, SQL, HTML, CSS
-- **Frameworks**: React.js, Express.js
-- **Tools**: Docker, Git, Node.js
 
 ## Projects
 
@@ -16,6 +10,3 @@ A web application designed for efficient link management, utilizing React.js for
 ### Docker Hub
 Check out my Docker images: [Docker Hub Profile](https://hub.docker.com/u/nickslp)
 
-## Get in Touch
-
-Feel free to connect with me on via [email](nickslp2019@gmail.com).
